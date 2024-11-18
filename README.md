@@ -1,5 +1,5 @@
 # 🏆 El Ballet del Gol.
-## Inpirado en EA Sports FC 25
+## Inspirado en EA Sports FC 25
 
 ## Creado por: Juan Pablo Daza Pereira y Juan Sebastian Camargo Sanchez
 
